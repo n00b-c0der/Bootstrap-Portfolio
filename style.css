@@ -17,10 +17,22 @@
 
  }
 
-footer {
-    position: sticky
-}
+ h1 {
+     margin-top: 20px;
+     margin-bottom: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
 
 body {
     background-color: papayawhip
+}
+
+h2 {
+    margin-top: 20px;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#card {
+    color: wheat;
 }
